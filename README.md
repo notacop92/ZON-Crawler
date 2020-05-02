@@ -8,5 +8,5 @@ The crawler creates a dict nested in a list. And the data is saved in a .csv (de
 Next steps should be:
 
 - Writting a scheduler which activates twice a day or maybe every 4h
-- Preventing clones in the Data
-- Finding out how to evalute the Data 
+- Preventing clones in the data
+- Finding out how to evalute the data 
